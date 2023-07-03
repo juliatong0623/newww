@@ -1,0 +1,78 @@
+body {
+  background-image: url("https://imgur.com/Ot7XuvE.jpg");
+  background-size: cover;
+}
+
+.lower img {
+  margin: 0 auto;
+}
+
+a.return-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: background-color 1s ease-in-out;
+}
+
+ .upper h1 {
+    width:100%;
+    background-color:#FEE4B3;
+    padding:5px 10px;
+    border-radius:5px;
+    margin-left: 5px;
+    font-size: 40px;
+    color: white;
+    text-align:center;
+   }
+  
+.lower {
+  font-size: 16px;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.lower h1 {
+  font-size: 26px;
+  color: whitesmoke;
+  font-weight: bold;
+  margin-bottom: 20px;
+  background-color:#5E8799;
+  text-align: center;
+}
+
+.lower h2 {
+  font-size: 30px;
+  color: #724A34;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.lower h3 {
+  font-size: 20px;
+  color: #007bff;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.lower p {
+  font-size: 18px;
+  line-height: 2; /* Change the line height to increase the gap between words */
+  color: #555;
+}
+
+.lower ul {
+  font-size: 18px;
+  line-height: 2; /* Change the line height to increase the gap between words */
+  color: #555;
+}
+
+.lower li {
+  margin-bottom: 20px;
+}
